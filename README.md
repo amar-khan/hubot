@@ -33,7 +33,13 @@ Then you can interact with akbot by typing `akbot help`.
     akbot animate me <query> - The same thing as `image me`, except adds [snip]
     akbot help - Displays all of the help commands that akbot knows about.
     ...
+### Screenshots
 
+![N|Solid](https://i.ibb.co/XJgfmCq/image-2020-11-13-T18-32-32-925-Z.png)
+
+![N|Solid](https://i.ibb.co/drtwB6Z/image-2020-11-13-T18-32-07-070-Z.png)
+
+![N|Solid](https://i.ibb.co/7b4MpcH/image-2020-11-13-T18-31-30-955-Z.png)
 ### Configuration
 
 A few scripts (including some installed by default) require environment
