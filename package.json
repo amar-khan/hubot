@@ -1,0 +1,35 @@
+{
+  "name": "akbot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "amar.khan@oitolabs.io",
+  "description": "automation bot for zivame ",
+  "dependencies": {
+    "async": "1.5.2",
+    "aws-sdk": "^2.463.0",
+    "coffeelint": "^2.1.0",
+    "cron": "^1.7.1",
+    "exotel-node": "0.0.3",
+    "html-to-text": "2.0.0",
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.2",
+    "hubot-google-images": "^0.2.7",
+    "hubot-google-translate": "^0.2.1",
+    "hubot-help": "^0.2.2",
+    "hubot-heroku-keepalive": "^1.0.3",
+    "hubot-maps": "0.0.3",
+    "hubot-pugme": "^0.1.1",
+    "hubot-redis-brain": "0.0.4",
+    "hubot-rules": "^0.1.2",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.1",
+    "hubot-slack": "^4.7.1",
+    "markdown-it": "6.0.0",
+    "nodemailer": "0.7.0",
+    "sync-request": "4.1.0",
+    "xml2json": "^0.11.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

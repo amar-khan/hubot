@@ -1,0 +1,9 @@
+{
+    // Put your custom coffeelink rules here as per http://www.coffeelint.org/
+    "max_line_length": {
+        // Amar:
+        // I would prefer default max length of 80 but there are too many errors.
+        // Level could be set to "warn" but this risks to overshadow other errors.
+        "level": "ignore"
+    }
+}
